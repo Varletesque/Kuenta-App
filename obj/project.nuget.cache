@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztp0Wz4gaOc=",
+  "success": true,
+  "projectFilePath": "D:\\Programming Stuff\\Languages\\C#\\Adobo\\CafeteriaLoggingSystem\\CafeteriaLoggingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashlee\\.nuget\\packages\\avalonia\\12.1.5\\avalonia.12.1.5.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\avalonia.buildservices\\11.3.2\\avalonia.buildservices.11.3.2.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\avalonia.remote.protocol\\12.1.5\\avalonia.remote.protocol.12.1.5.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\google.protobuf\\3.35.0\\google.protobuf.3.35.0.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\microcom.runtime\\0.11.6\\microcom.runtime.0.11.6.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\mysql.data\\26.10.0\\mysql.data.26.10.0.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.8\\system.configuration.configurationmanager.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.8\\system.diagnostics.eventlog.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.8\\system.security.cryptography.protecteddata.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\system.security.permissions\\10.0.8\\system.security.permissions.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512",
+    "C:\\Users\\Ashlee\\.nuget\\packages\\zstdsharp.port\\0.8.8\\zstdsharp.port.0.8.8.nupkg.sha512"
+  ],
+  "logs": []
+}
